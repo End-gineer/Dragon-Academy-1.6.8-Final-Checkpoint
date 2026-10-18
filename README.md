@@ -6,7 +6,7 @@
 Hey — I’m Salman 👋  
 Aspiring Electrical & Computer Engineer • Student Developer • Creator of Dragon Academy
 
-Dragon Academy is an offline-first study platform for Cambridge O-Level / IGCSE learners. It helps students practice exam-style questions, track weak topics, and study offline with a desktop-style experience.
+Dragon Academy is an offline-first study platform for Cambridge O‑Level / IGCSE learners. It helps students practice exam-style questions, track weak topics, and study offline with a desktop-style experience.
 
 ---
 
@@ -59,7 +59,7 @@ Dragon Academy is an offline-first study platform for Cambridge O-Level / IGCSE 
 2. Create a virtual environment:
    ```bash
    python -m venv venv
-   source venv/bin/activate  # or `venv\Scripts\activate` on Windows
+   source venv/bin/activate  # or `venv\\Scripts\\activate` on Windows
    ```
 3. Install dependencies:
    ```bash
@@ -111,6 +111,6 @@ This project is released under the MIT License — see LICENSE.
 ---
 
 ## Contact
-Salman — IRONPROsal16 (GitHub)  
+Salman — EndGineer (GitHub)  
 Location: Bangladesh  
 Learning today. Engineering tomorrow. ⚡
